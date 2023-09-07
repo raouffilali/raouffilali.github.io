@@ -102,7 +102,7 @@ input {
 
 /* intended for the first h2 within .text-info */
 .text-info h2:nth-child(1) {
-  color: var(--theme-color-red);
+  color: var(--theme-color-blue);
   font-weight: normal;
   padding-top: 1.8rem;
   padding-bottom: 1rem;
